@@ -54,3 +54,5 @@ public class OrderTest {
   }
 }
 ```
+
+![UML_SOLIDPrinciples](https://github.com/user-attachments/assets/bbac0be7-6f1b-4da4-b623-e1ffc0483731)
